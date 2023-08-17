@@ -1,0 +1,5 @@
+<resources>
+    <!-- Base application theme. -->
+
+    <style name="Theme.ComposeMeditation" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
